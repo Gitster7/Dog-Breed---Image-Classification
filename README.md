@@ -1,4 +1,4 @@
-# Dog-Breed---Image-Classification
+# Dog-Breed-Image-Classification 🐕
 
 ## 1. Problem
 Identifying the breed of a dog given an image of a dog.
